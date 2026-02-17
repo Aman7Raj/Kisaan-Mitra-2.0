@@ -5,6 +5,16 @@ It empowers farmers with intelligent insights while delivering fresh produce dir
 
 ---
 
+## 🏠 Landing Page
+
+![Landing Page](landing1.png)
+![Landing Page](landing2.png)
+
+## 👨‍🌾 Farmer Dashboard
+
+![Farmer Dashboard](farmer.png)
+
+
 ## 🚀 Problem Statement
 
 - Farmers often don’t receive fair prices.
