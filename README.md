@@ -1,10 +1,11 @@
 # Kisaan-Mitra-2.0
+(Currently in processing...)
 KisaanMitra is a smart agri-tech platform that bridges the gap between farmers (producers) and customers (consumers) by eliminating middlemen and enabling transparent, data-driven farm-to-home commerce.
 
 It empowers farmers with intelligent insights while delivering fresh produce directly to customers.
 
 ---
-
+UI interface--
 ## 🏠 Landing Page
 
 ![Landing Page](landing1.png)
