@@ -17,7 +17,7 @@ It empowers farmers with intelligent insights while delivering fresh produce dir
 
 # Login
 
-![Farmer Dashboard](Login.png)
+![Farmer Dashboard](login.png)
 
 
 
